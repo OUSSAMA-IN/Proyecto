@@ -2,7 +2,6 @@
   "name": "proyecto",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html",
